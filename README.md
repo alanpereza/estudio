@@ -1,1 +1,3 @@
 # estudio
+
+#subiendo primera version
